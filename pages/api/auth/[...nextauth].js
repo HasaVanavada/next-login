@@ -1,7 +1,7 @@
 import NextAuth from 'next-auth';
 import GoogleProvider from 'next-auth/providers/google';
 import LinkedInProvider from 'next-auth/providers/linkedin';
-import ORCIDProvider from 'next-auth/providers/orcid';
+import ORCIDProvider from 'next-auth/providers/oauth';
 
 export const authOptions = {
   providers: [
