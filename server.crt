@@ -1,0 +1,56 @@
+-----BEGIN CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            31:0a:db:af:c5:dd:35:da:b1:da:e4:b9:ae:ec:2a:ee:e9:e7:5a:2b
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=in, ST=andhra pradesh, L=ap, O=kc, OU=tech, CN=hasa, emailAddress=hasa.vanavada@gmail.com
+        Validity
+            Not Before: Nov 21 01:49:32 2024 GMT
+            Not After : Dec 21 01:49:32 2024 GMT
+        Subject: C=in, ST=andhra pradesh, L=ap, O=kc, OU=tech, CN=hasa, emailAddress=hasa.vanavada@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:bb:48:d0:e1:c0:63:1b:b4:e2:d2:d1:21:c2:59:
+                    79:c9:16:ed:a7:cd:3a:d6:85:cb:13:95:eb:fc:16:
+                    53:55:d6:ca:c1:fa:a6:91:52:28:c1:5f:77:d3:1f:
+                    08:2f:de:a8:e3:d5:15:34:23:c3:07:95:df:b4:8a:
+                    01:6d:32:05:a6:4a:91:39:89:85:a8:b1:99:e6:95:
+                    de:e4:b3:c5:7b:91:8e:de:df:63:8c:1f:62:32:d4:
+                    8f:8c:4c:32:43:0f:b7:a6:91:d6:3b:8d:a8:b5:cc:
+                    0f:d6:27:0a:68:79:bb:02:b5:76:54:1a:87:37:63:
+                    fd:96:23:4a:09:69:2c:b5:84:d3:4e:a1:b9:05:7f:
+                    b1:5e:ef:5d:67:7f:e8:2b:f5:f3:87:6e:b5:42:d7:
+                    70:21:61:73:1d:10:ea:b0:68:43:68:b0:79:79:96:
+                    7a:e9:c1:1f:8f:5e:98:fe:43:9b:9d:41:51:a1:a0:
+                    1b:8a:6f:f0:70:80:48:73:09:d1:c2:2b:37:64:a6:
+                    4e:4c:7e:b5:6f:b2:e9:e9:31:4a:ed:20:82:a9:54:
+                    f6:a6:d9:25:67:5f:c7:0c:b5:6f:9d:e7:2c:10:8b:
+                    7d:cd:59:e3:b3:13:e5:ce:a5:79:88:15:9c:e6:cf:
+                    d3:09:b5:76:72:6a:02:af:85:d0:c5:b6:60:2d:43:
+                    3b:b5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier:
+                2C:B0:2D:CB:AB:AC:F0:B7:4C:47:F5:28:34:43:65:E9:DB:4E:1D:A3
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        99:b3:7e:37:ef:eb:1e:51:b0:d5:0d:c1:9b:45:43:4c:16:0e:
+        cf:8f:77:de:a8:e6:ac:e2:12:27:a2:8a:10:dd:f9:eb:b5:07:
+        87:aa:cc:01:77:01:66:19:70:0c:8e:2e:12:83:91:51:b1:6e:
+        e3:59:9b:5e:75:c6:c9:1c:ab:52:56:b8:cc:c4:75:4f:28:99:
+        f4:d8:23:3e:78:d1:0b:54:6d:0f:2b:d2:0f:10:a1:f7:74:a9:
+        d6:ff:c5:43:66:a3:ef:2f:77:98:52:0b:a4:7c:3f:c6:bb:53:
+        19:d5:12:7f:a0:8e:75:07:b2:0b:e8:65:27:f0:cb:02:48:59:
+        97:69:8d:d6:45:d3:7a:26:64:26:03:a3:c3:73:a5:24:af:c4:
+        98:fd:07:96:1a:fb:6f:cf:65:cf:cf:6a:a2:1d:41:bf:5a:da:
+        52:bd:81:9d:95:d0:21:55:0d:5b:2b:c0:50:20:f6:ce:61:f3:
+        f7:ac:05:d3:50:14:aa:f4:e2:2e:cc:2c:c5:28:3c:a1:20:c1:
+        c6:e1:79:cf:47:6a:5f:55:6a:98:5f:6c:32:c1:a0:37:a5:26:
+        ee:66:05:0e:25:fd:de:dc:0b:02:ee:31:f1:cf:92:48:d5:b5:
+        d2:92:24:78:f3:2a:29:02:d2:c0:3c:00:ab:25:6f:43:a0:65:
+        d9:47:8e:67
+-----END CERTIFICATE-----
