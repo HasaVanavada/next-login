@@ -1,13 +1,15 @@
 import NextAuth from 'next-auth';
 import GoogleProvider from 'next-auth/providers/google';
 import LinkedInProvider from 'next-auth/providers/linkedin';
-// import ORCIDProvider from 'next-auth/providers/orcid';
+import ORCIDProvider from 'next-auth/providers/orcid';
 
 export const authOptions = {
   providers: [
     GoogleProvider({
       clientId: process.env.GOOGLE_CLIENT_ID,
       clientSecret: process.env.GOOGLE_CLIENT_SECRET,
+      // authorizationUrl: process.env.NEXT_PUBLIC_GOOGLE_REDIRECT_URI,
+      redirectUri: process.env.NEXT_PUBLIC_GOOGLE_REDIRECT_URI,
     }),
     LinkedInProvider({
       clientId: process.env.LINKEDIN_CLIENT_ID,
@@ -35,10 +37,10 @@ export const authOptions = {
     //     },
     //   }),
     // ],
-    // ORCIDProvider({
-    //   clientId: process.env.ORCID_CLIENT_ID,
-    //   clientSecret: process.env.ORCID_CLIENT_SECRET,
-    // }),
+    ORCIDProvider({
+      clientId: process.env.ORCID_CLIENT_ID,
+      clientSecret: process.env.ORCID_CLIENT_SECRET,
+    }),
   ],
 
   callbacks: {
